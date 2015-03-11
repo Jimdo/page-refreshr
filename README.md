@@ -1,5 +1,5 @@
 # page-refreshr
-Opens a given url in a fullpage width/height iframe and refreshes it by given interval.
+Opens a given url in a fullpage width/height iframe and refreshes it by given interval (in seconds).
 Useful e.g. to refresh frozen jimdash dashboards. Less raspberry pi rebooting necessary.
 
 ## Usage
